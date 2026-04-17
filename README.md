@@ -22,7 +22,7 @@ This project analyzes sales performance of executives using Microsoft Excel.
 - Region-based filtering
 
 ## 📷 Dashboard Preview
-![Dashboard](SalesDashboard.png)
+![Dashboard](Sales Dashboard.png)
 
 ## 📁 Files Included
 - sales-performance-dashboard.xlsm
